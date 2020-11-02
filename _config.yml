@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                '창수의 .'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              changsoooooo's Blog
+bio:                '창수의 블로그.'
+description:        "changsoooooo's Blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/blackbackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://changsoooooo.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   changsoo's
 
 # Social
 # if you don't have any of social below, comment the line.
